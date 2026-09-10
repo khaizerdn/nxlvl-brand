@@ -14,7 +14,10 @@ every number in [BRAND-GUIDELINES.md](BRAND-GUIDELINES.md) are guaranteed to agr
 
 ## Download
 
-**[⬇ Download the whole kit (nxlvl-brand-kit.zip, 2.0 MB)](nxlvl-brand-kit.zip?raw=1)**
+**[⬇ Download the whole kit (nxlvl-brand-kit.zip, 2.0 MB)](https://github.com/khaizerdn/nxlvl-brand/releases/latest/download/nxlvl-brand-kit.zip)**
+
+That link always serves the newest kit; earlier ones stay on the
+[Releases](https://github.com/khaizerdn/nxlvl-brand/releases) page.
 
 Or take single files straight from [`svg/`](svg) and [`png/`](png). Every variant is
 laid out on one sheet in **[png/contact-sheet.png](png/contact-sheet.png)** if you would rather look first.
