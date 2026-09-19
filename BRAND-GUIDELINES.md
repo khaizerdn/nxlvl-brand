@@ -64,8 +64,10 @@ where the name is supplied by something else on screen.
 
 ## Icons
 
-`png/icon/` covers the ladder from 16 px to 1024 px, on black and on white, each
-size drawn at its own scale rather than downscaled from one master.
+`png/icon/` covers the ladder from 16 px to 1024 px in three treatments — on
+black, on white, and `-white` for white ink on transparency — each size drawn at
+its own scale rather than downscaled from one master. Reach for the transparent
+one wherever something else paints the ground, such as a browser tab.
 
 Two special purposes sit alongside them, and they are not interchangeable:
 
@@ -74,7 +76,8 @@ Two special purposes sit alongside them, and they are not interchangeable:
 - **`nxlvl-icon-monochrome-*.png`** — the same crop as a silhouette on
   transparency, for the themed icons Android 13+ tints itself.
 
-`favicon.ico` bundles 16, 32 and 48 px in one file.
+`favicon.ico` bundles 16, 32 and 48 px in one file, white ink on transparency —
+the browser's own tab strip is the ground.
 
 ## The module
 

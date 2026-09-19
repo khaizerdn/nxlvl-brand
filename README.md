@@ -5,7 +5,7 @@
 # NXLVL brand assets
 
 The logo, wordmark and icon set for **NXLVL**, an esports tournament platform.
-Everything here is drawn from one geometry module, so the SVGs, the 61 PNGs and
+Everything here is drawn from one geometry module, so the SVGs, the 71 PNGs and
 every number in [BRAND-GUIDELINES.md](BRAND-GUIDELINES.md) are guaranteed to agree with each other.
 
 > **Using the NXLVL name or logo?** Read [what you may and may not do](#permissions)
