@@ -32,6 +32,8 @@ Start here; the rest of the table is detail.
 | Putting the logo on a light background | [`svg/nxlvl-lockup-black.svg`](svg/nxlvl-lockup-black.svg) |
 | Filling a square or portrait space | `svg/nxlvl-stacked-*.svg` |
 | Making an avatar, favicon or app icon | `svg/nxlvl-mark-*.svg`, or a ready-made size from [`png/icon/`](png/icon) |
+| Posting a link, or filling a profile square | [`png/social/`](png/social) — `nxlvl-social-og-on-*.png` for link previews, `nxlvl-social-square-on-*.png` for profiles |
+| Uploading a cover a site crops its own avatar out of | `png/social/nxlvl-social-og-mark-*.png` — the mark alone, sized so the square that gets cropped is framed like `png/icon/` |
 | Already showing the mark nearby | `svg/nxlvl-wordmark-*.svg` |
 | Somewhere PNG is the only option | [`png/2x/`](png/2x) for print and retina, [`png/1x/`](png/1x) for screen |
 
